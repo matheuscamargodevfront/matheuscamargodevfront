@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgizmodo.uol.com.br%2Fdesenvolvedor-front-end-linguagens-essenciais%2F&psig=AOvVaw3fcE5dd3aSO4T5K_3az5re&ust=1743789813198000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiBt765vIwDFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgizmodo.uol.com.br%2Fdesenvolvedor-front-end-linguagens-essenciais%2F&psig=AOvVaw3fcE5dd3aSO4T5K_3az5re&ust=1743789813198000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiBt765vIwDFQAAAAAdAAAAABAE)"  />
 
 ###
 
