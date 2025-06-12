@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "id": "7cde",
+      "name": "Matheus Anselmo de Camargo",
+      "budget": "2222222",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f127",
+      "name": "Plano com 3 ciclos",
+      "budget": "333333333333",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3f72",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e573",
+      "name": "Matheus Anselmo de Camargo",
+      "budget": "500000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
